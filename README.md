@@ -23,7 +23,7 @@ It was initially run on kaggle notebook by directly importing data from kaggle. 
 
 - Tensorflow was used to build the model
  
-## METHADOLOGY
+## METHODOLOGY
 
 - Image dataset is loaded using keras ImageDataGenerator. There are 9 classes of fishes to classify
 - A sequential model is created with convolutional networks.
